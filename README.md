@@ -7,7 +7,7 @@
 https://debtcalc-demo.vercel.app/
 
 Stack:
-fdmsdfnfdsklfds
+
 
 - React JS
 - Less
